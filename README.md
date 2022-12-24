@@ -40,5 +40,6 @@ We encourage contributions and are always looking for new members that are as de
 
 ## Contact
 You can reach us by using the [Forum](https://forums.percona.com/c/mysql-mariadb/percona-xtradb-cluster-8-x/)
+#https://docs.percona.com/percona-xtradb-cluster/8.0/install/compile.html#compile
 
 Copyright (c) 2000, 2022, Oracle and/or its affiliates.
